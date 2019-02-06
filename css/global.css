@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body {
+  background-color: black;
+  font-family: 'Karla', sans-serif;
+  padding-top: 71px;
+  height: 100%;
+  margin: 0;
+  color: white;
+}
+
+.about-title h1 {
+  font-size: 50px;
+  font-family: 'Righteous', sans-serif;
+  color: white;
+  text-shadow: 2px 2px black;
+}
